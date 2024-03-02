@@ -55,6 +55,7 @@ export const availableDependencies = [
     'mongodb',
     'mysql2',
     'node-fetch',
+    'xml2js',
     'node-html-markdown',
     'notion-to-md',
     'openai',
